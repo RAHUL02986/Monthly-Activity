@@ -1,0 +1,101 @@
+body{
+    background-color:white;
+}
+.day{
+    width: 35px;
+    margin: 5px;  
+}
+.day:hover{
+    border: 1px solid blue;
+    width: 35px;
+    margin: 5px;   
+    border-radius: 5px;  
+ 
+
+    
+
+}
+.delete{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    width: 800px;
+    margin: 30px auto;
+    border: 1px solid white;
+    background-color: white;
+    box-shadow: 2px 2px 4px 3px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.month{
+    background-color:#eff5fb ;
+    width: 200px;
+    margin: 5px;
+
+}
+.moth-d{
+    width: 450px;
+    padding-top: 10px;
+}
+.p-6{
+    text-align: center;
+    
+}
+h2{
+    color: rgb(25, 143, 9);
+}
+h1{
+    color: blue;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 50px;
+}
+form{
+    display: flex;
+    margin-left: 200px;
+}
+.level-item{
+    width: 600px;
+    margin: 0 auto;
+
+    
+}
+input{
+    text-align: center;
+    padding: 5px;
+    width: 120%;
+    outline: none;
+}
+input:hover{
+    border-color: blue;
+    outline: none;
+}
+.btn{
+    background-color: rgb(184, 47, 138);
+    color: wheat;
+    border: none;
+    padding: 6.7px;
+}
+.btn:hover{
+    background-color: greenyellow;
+    color: whitesmoke;
+}
+.has-background-primary{
+    background-color: chartreuse;
+    margin: 5px;
+    width: 35px;
+    border-radius: 5px;
+
+    
+}
+    
