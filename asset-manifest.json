@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monthly-activity/static/css/main.993b4f4d.css",
+    "main.js": "/monthly-activity/static/js/main.fe92c54d.js",
+    "index.html": "/monthly-activity/index.html",
+    "main.993b4f4d.css.map": "/monthly-activity/static/css/main.993b4f4d.css.map",
+    "main.fe92c54d.js.map": "/monthly-activity/static/js/main.fe92c54d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.993b4f4d.css",
+    "static/js/main.fe92c54d.js"
+  ]
+}
